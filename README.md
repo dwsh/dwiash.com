@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/me0310/106709ec-523f-41c7-8d19-7a3e400ca913/42e50ae9-6ae5-4986-9e67-f7a188d2e7ad/_apis/work/boardbadge/e7b1b5ef-8e64-49d9-87d3-04b95cbe987e)](https://dev.azure.com/me0310/106709ec-523f-41c7-8d19-7a3e400ca913/_boards/board/t/42e50ae9-6ae5-4986-9e67-f7a188d2e7ad/Microsoft.RequirementCategory)
 # dwiash.com
